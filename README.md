@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, I’m Elliot Runions, a highschool student enrolled in the PTEC software development program.
+Hi, I’m Elliot Runions, a high school student enrolled in the PTEC software development program.
 
 I enjoy making games in the Unity game engine and learning game design theory. You can find the games I've made on my <a href="https://itch.io/profile/erunions">itch.io</a> page.
 
